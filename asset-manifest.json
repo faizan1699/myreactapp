@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/faizan1699/myreactapp/static/css/main.e6c13ad2.css",
+    "main.js": "/faizan1699/myreactapp/static/js/main.a2794418.js",
+    "static/js/787.28cb0dcd.chunk.js": "/faizan1699/myreactapp/static/js/787.28cb0dcd.chunk.js",
+    "static/media/preLoader.gif": "/faizan1699/myreactapp/static/media/preLoader.642d36bc4a0e5b1b1015.gif",
+    "index.html": "/faizan1699/myreactapp/index.html",
+    "main.e6c13ad2.css.map": "/faizan1699/myreactapp/static/css/main.e6c13ad2.css.map",
+    "main.a2794418.js.map": "/faizan1699/myreactapp/static/js/main.a2794418.js.map",
+    "787.28cb0dcd.chunk.js.map": "/faizan1699/myreactapp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a2794418.js"
+  ]
+}
